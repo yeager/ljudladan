@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Sound Box
+GenericName=Gradual sound sensitivity training
+Comment=Gradual sound sensitivity training
+Exec=ljudladan
+Icon=ljudladan
+Terminal=false
+Categories=Education;Accessibility;
+Keywords=autism;adhd;accessibility;children;
