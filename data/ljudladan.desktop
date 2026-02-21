@@ -1,8 +1,10 @@
 [Desktop Entry]
 Type=Application
 Name=Sound Box
+Name[sv]=Ljudlådan
 GenericName=Gradual sound sensitivity training
 Comment=Gradual sound sensitivity training
+Comment[sv]=Ljudträning med kategorier och volymkontroll
 Exec=ljudladan
 Icon=ljudladan
 Terminal=false
