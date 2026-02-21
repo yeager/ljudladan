@@ -1,102 +1,131 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the ljudladan package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Copyright (C) 2026 Daniel Nylander
+# This file is distributed under the same license as the package.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ljudladan\n"
+"Project-Id-Version: ljudladan 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-21 15:33+0100\n"
+"POT-Creation-Date: 2026-02-21 15:00+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ljudladan/export.py:13 ljudladan/main.py:67 ljudladan/main.py:128
-#: ljudladan/main.py:193
-msgid "Sound Box"
-msgstr ""
-
-#: ljudladan/export.py:95
-msgid "Export"
-msgstr ""
-
-#: ljudladan/export.py:95
-msgid "Choose export format:"
-msgstr ""
-
-#: ljudladan/export.py:96
-msgid "Cancel"
-msgstr ""
-
-#: ljudladan/export.py:97
-msgid "CSV"
-msgstr ""
-
-#: ljudladan/export.py:98
-msgid "JSON"
-msgstr ""
-
-#: ljudladan/export.py:99
-msgid "PDF"
-msgstr ""
-
-#: ljudladan/export.py:111
-msgid "Save Export"
-msgstr ""
-
-#: ljudladan/export.py:132
-#, python-format
-msgid "Exported %s"
-msgstr ""
-
-#: ljudladan/export.py:135
-#, python-format
-msgid "Export error: %s"
-msgstr ""
-
-#: ljudladan/main.py:77
-msgid "Export (Ctrl+E)"
-msgstr ""
-
-#: ljudladan/main.py:82
-msgid "Export Log"
-msgstr ""
-
-#: ljudladan/main.py:83
 msgid "About Sound Box"
 msgstr ""
 
-#: ljudladan/main.py:84
+msgid "Alarm clock"
+msgstr ""
+
+msgid "Animals"
+msgstr ""
+
+msgid "Birds singing"
+msgstr ""
+
+msgid "Cat meowing"
+msgstr ""
+
+msgid "Cow mooing"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Dog barking"
+msgstr ""
+
+msgid "Doorbell"
+msgstr ""
+
+msgid "Drums"
+msgstr ""
+
+msgid "Everyday"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Feels good!"
+msgstr ""
+
+msgid "Flute"
+msgstr ""
+
+msgid "Guitar"
+msgstr ""
+
+msgid "Horse neighing"
+msgstr ""
+
+msgid "How does it feel?"
+msgstr ""
+
+msgid "It is okay."
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Nature"
+msgstr ""
+
+msgid "Ocean waves"
+msgstr ""
+
+msgid "Phone ringing"
+msgstr ""
+
+msgid "Piano"
+msgstr ""
+
+msgid "Playing: %s (volume: %d%%)"
+msgstr ""
+
 msgid "Quit"
 msgstr ""
 
-#: ljudladan/main.py:103
-msgid "Sound Level"
+msgid "Rain"
 msgstr ""
 
-#: ljudladan/main.py:108
-msgid "Safe Sounds"
+msgid "Result"
 msgstr ""
 
-#: ljudladan/main.py:135
-msgid "How loud is it right now?"
+msgid "Rooster crowing"
 msgstr ""
 
-#: ljudladan/main.py:156
-#, python-format
-msgid "Logged: %s %s"
+msgid "Sound Box"
 msgstr ""
 
-#: ljudladan/main.py:163
-msgid "Sounds that help you feel calm"
+msgid "Thunder"
 msgstr ""
 
-#: ljudladan/main.py:197
-msgid "Sound sensitivity tool with custom sound profiles"
+msgid "Toggle dark/light theme"
+msgstr ""
+
+msgid "Too much!"
+msgstr ""
+
+msgid "Traffic"
+msgstr ""
+
+msgid "Vacuum cleaner"
+msgstr ""
+
+msgid "Violin"
+msgstr ""
+
+msgid "Volume:"
+msgstr ""
+
+msgid "Wind"
 msgstr ""
