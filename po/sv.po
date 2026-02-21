@@ -1,0 +1,165 @@
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ljudladan 0.1.0\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305149/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/ljudladan/main.py:1
+msgid "About Sound Box"
+msgstr "Om Ljudlådan"
+
+#: src/ljudladan/main.py:2
+msgid "Alarm clock"
+msgstr "Väckarklocka"
+
+#: src/ljudladan/main.py:3
+msgid "Animals"
+msgstr "Djur"
+
+#: src/ljudladan/main.py:4
+msgid "Birds singing"
+msgstr "Fåglar som sjunger"
+
+#: src/ljudladan/main.py:5
+msgid "Cat meowing"
+msgstr "Katt som jamar"
+
+#: src/ljudladan/main.py:6
+msgid "Cow mooing"
+msgstr "Ko som råmar"
+
+#: src/ljudladan/main.py:7
+msgid "Date"
+msgstr "Datum"
+
+#: src/ljudladan/main.py:8
+msgid "Details"
+msgstr "Detaljer"
+
+#: src/ljudladan/main.py:9
+msgid "Dog barking"
+msgstr "Hund som skäller"
+
+#: src/ljudladan/main.py:10
+msgid "Doorbell"
+msgstr "Dörrklocka"
+
+#: src/ljudladan/main.py:11
+msgid "Drums"
+msgstr "Trummor"
+
+#: src/ljudladan/main.py:12
+msgid "Everyday"
+msgstr "Varje dag"
+
+#: src/ljudladan/main.py:13
+msgid "Export"
+msgstr "Exportera"
+
+#: src/ljudladan/main.py:14
+msgid "Feels good!"
+msgstr "Det känns bra!"
+
+#: src/ljudladan/main.py:15
+msgid "Flute"
+msgstr "Flöjt"
+
+#: src/ljudladan/main.py:16
+msgid "Guitar"
+msgstr "Gitarr"
+
+#: src/ljudladan/main.py:17
+msgid "Horse neighing"
+msgstr "Häst som gnäggar"
+
+#: src/ljudladan/main.py:18
+msgid "How does it feel?"
+msgstr "Hur känns det?"
+
+#: src/ljudladan/main.py:19
+msgid "It is okay."
+msgstr "Det är okej."
+
+#: src/ljudladan/main.py:20
+msgid "Music"
+msgstr "Musik"
+
+#: src/ljudladan/main.py:21
+msgid "Nature"
+msgstr "Natur"
+
+#: src/ljudladan/main.py:22
+msgid "Ocean waves"
+msgstr "Havsvågor"
+
+#: src/ljudladan/main.py:23
+msgid "Phone ringing"
+msgstr "Telefon som ringer"
+
+#: src/ljudladan/main.py:24
+msgid "Piano"
+msgstr "Piano"
+
+#: src/ljudladan/main.py:25
+msgid "Playing: %s (volume: %d%%)"
+msgstr "Spelar: %s (volym: %d%%)"
+
+#: src/ljudladan/main.py:26
+msgid "Quit"
+msgstr "Avsluta"
+
+#: src/ljudladan/main.py:27
+msgid "Rain"
+msgstr "Regn"
+
+#: src/ljudladan/main.py:28
+msgid "Result"
+msgstr "Resultat"
+
+#: src/ljudladan/main.py:29
+msgid "Rooster crowing"
+msgstr "Tupp som galer"
+
+#: src/ljudladan/main.py:30
+msgid "Sound Box"
+msgstr "Ljudlådan"
+
+#: src/ljudladan/main.py:31
+msgid "Thunder"
+msgstr "Åska"
+
+#: src/ljudladan/main.py:32
+msgid "Toggle dark/light theme"
+msgstr "Växla mellan mörkt/ljus tema"
+
+#: src/ljudladan/main.py:33
+msgid "Too much!"
+msgstr "För mycket!"
+
+#: src/ljudladan/main.py:34
+msgid "Traffic"
+msgstr "Trafik"
+
+#: src/ljudladan/main.py:35
+msgid "Vacuum cleaner"
+msgstr "Dammsugare"
+
+#: src/ljudladan/main.py:36
+msgid "Violin"
+msgstr "Fiol"
+
+#: src/ljudladan/main.py:37
+msgid "Volume:"
+msgstr "Volym:"
+
+#: src/ljudladan/main.py:38
+msgid "Wind"
+msgstr "Vind"
