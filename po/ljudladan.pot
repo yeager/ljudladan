@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the ljudladan package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ljudladan\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-21 15:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ljudladan/export.py:13 ljudladan/main.py:67 ljudladan/main.py:128
+#: ljudladan/main.py:193
+msgid "Sound Box"
+msgstr ""
+
+#: ljudladan/export.py:95
+msgid "Export"
+msgstr ""
+
+#: ljudladan/export.py:95
+msgid "Choose export format:"
+msgstr ""
+
+#: ljudladan/export.py:96
+msgid "Cancel"
+msgstr ""
+
+#: ljudladan/export.py:97
+msgid "CSV"
+msgstr ""
+
+#: ljudladan/export.py:98
+msgid "JSON"
+msgstr ""
+
+#: ljudladan/export.py:99
+msgid "PDF"
+msgstr ""
+
+#: ljudladan/export.py:111
+msgid "Save Export"
+msgstr ""
+
+#: ljudladan/export.py:132
+#, python-format
+msgid "Exported %s"
+msgstr ""
+
+#: ljudladan/export.py:135
+#, python-format
+msgid "Export error: %s"
+msgstr ""
+
+#: ljudladan/main.py:77
+msgid "Export (Ctrl+E)"
+msgstr ""
+
+#: ljudladan/main.py:82
+msgid "Export Log"
+msgstr ""
+
+#: ljudladan/main.py:83
+msgid "About Sound Box"
+msgstr ""
+
+#: ljudladan/main.py:84
+msgid "Quit"
+msgstr ""
+
+#: ljudladan/main.py:103
+msgid "Sound Level"
+msgstr ""
+
+#: ljudladan/main.py:108
+msgid "Safe Sounds"
+msgstr ""
+
+#: ljudladan/main.py:135
+msgid "How loud is it right now?"
+msgstr ""
+
+#: ljudladan/main.py:156
+#, python-format
+msgid "Logged: %s %s"
+msgstr ""
+
+#: ljudladan/main.py:163
+msgid "Sounds that help you feel calm"
+msgstr ""
+
+#: ljudladan/main.py:197
+msgid "Sound sensitivity tool with custom sound profiles"
+msgstr ""

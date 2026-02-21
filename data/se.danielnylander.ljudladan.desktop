@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Sound Box
+Name[sv]=Ljudlådan
+GenericName=Sound Box
+GenericName[sv]=Ljudlådan
+Comment=Sound sensitivity tool with custom sound profiles
+Comment[sv]=Ljudkänslighetsverktyg med egna ljudprofiler
+Exec=ljudladan
+Icon=se.danielnylander.ljudladan
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Utility;Accessibility;
+Keywords=sound;noise;sensitivity;sensory;autism;
+Keywords[sv]=ljud;buller;känslighet;sensorisk;autism;
