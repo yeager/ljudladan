@@ -1,158 +1,171 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ljudladan 0.1.0\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-21 20:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: source
-msgid "About Sound Box"
-msgstr ""
-
-#: source
-msgid "Alarm clock"
-msgstr ""
-
-#: source
-msgid "Animals"
-msgstr ""
-
-#: source
-msgid "Birds singing"
-msgstr ""
-
-#: source
-msgid "Cat meowing"
-msgstr ""
-
-#: source
-msgid "Cow mooing"
-msgstr ""
-
-#: source
-msgid "Date"
-msgstr ""
-
-#: source
-msgid "Details"
-msgstr ""
-
-#: source
-msgid "Dog barking"
-msgstr ""
-
-#: source
-msgid "Doorbell"
-msgstr ""
-
-#: source
-msgid "Drums"
-msgstr ""
-
-#: source
-msgid "Everyday"
-msgstr ""
-
-#: source
-msgid "Export"
-msgstr ""
-
-#: source
-msgid "Feels good!"
-msgstr ""
-
-#: source
-msgid "Flute"
-msgstr ""
-
-#: source
-msgid "Guitar"
-msgstr ""
-
-#: source
-msgid "Horse neighing"
-msgstr ""
-
-#: source
-msgid "How does it feel?"
-msgstr ""
-
-#: source
-msgid "It is okay."
-msgstr ""
-
-#: source
-msgid "Music"
-msgstr ""
-
-#: source
-msgid "Nature"
-msgstr ""
-
-#: source
-msgid "Ocean waves"
-msgstr ""
-
-#: source
-msgid "Phone ringing"
-msgstr ""
-
-#: source
-msgid "Piano"
-msgstr ""
-
-#: source
-msgid "Playing: %s (volume: %d%%)"
-msgstr ""
-
-#: source
-msgid "Quit"
-msgstr ""
-
-#: source
-msgid "Rain"
-msgstr ""
-
-#: source
-msgid "Result"
-msgstr ""
-
-#: source
-msgid "Rooster crowing"
-msgstr ""
-
-#: source
+#: src/export.py:11 src/main.py:66 src/main.py:79
 msgid "Sound Box"
 msgstr ""
 
-#: source
+#: src/export.py:23
+msgid "Date"
+msgstr ""
+
+#: src/export.py:23
+msgid "Details"
+msgstr ""
+
+#: src/export.py:23
+msgid "Result"
+msgstr ""
+
+#: src/export.py:45 src/main.py:91
+msgid "Export"
+msgstr ""
+
+#: src/main.py:23
+msgid "Nature"
+msgstr ""
+
+#: src/main.py:24
+msgid "Rain"
+msgstr ""
+
+#: src/main.py:24
+msgid "Wind"
+msgstr ""
+
+#: src/main.py:24
+msgid "Birds singing"
+msgstr ""
+
+#: src/main.py:24
 msgid "Thunder"
 msgstr ""
 
-#: source
-msgid "Toggle dark/light theme"
+#: src/main.py:24
+msgid "Ocean waves"
 msgstr ""
 
-#: source
-msgid "Too much!"
+#: src/main.py:25
+msgid "Animals"
 msgstr ""
 
-#: source
-msgid "Traffic"
+#: src/main.py:26
+msgid "Dog barking"
 msgstr ""
 
-#: source
-msgid "Vacuum cleaner"
+#: src/main.py:26
+msgid "Cat meowing"
 msgstr ""
 
-#: source
+#: src/main.py:26
+msgid "Cow mooing"
+msgstr ""
+
+#: src/main.py:26
+msgid "Horse neighing"
+msgstr ""
+
+#: src/main.py:26
+msgid "Rooster crowing"
+msgstr ""
+
+#: src/main.py:27
+msgid "Music"
+msgstr ""
+
+#: src/main.py:28
+msgid "Piano"
+msgstr ""
+
+#: src/main.py:28
+msgid "Guitar"
+msgstr ""
+
+#: src/main.py:28
+msgid "Drums"
+msgstr ""
+
+#: src/main.py:28
 msgid "Violin"
 msgstr ""
 
-#: source
+#: src/main.py:28
+msgid "Flute"
+msgstr ""
+
+#: src/main.py:29
+msgid "Everyday"
+msgstr ""
+
+#: src/main.py:30
+msgid "Doorbell"
+msgstr ""
+
+#: src/main.py:30
+msgid "Vacuum cleaner"
+msgstr ""
+
+#: src/main.py:30
+msgid "Alarm clock"
+msgstr ""
+
+#: src/main.py:30
+msgid "Traffic"
+msgstr ""
+
+#: src/main.py:30
+msgid "Phone ringing"
+msgstr ""
+
+#: src/main.py:92
+msgid "About Sound Box"
+msgstr ""
+
+#: src/main.py:93
+msgid "Quit"
+msgstr ""
+
+#: src/main.py:97
+msgid "Toggle dark/light theme"
+msgstr ""
+
+#: src/main.py:104
 msgid "Volume:"
 msgstr ""
 
-#: source
-msgid "Wind"
+#: src/main.py:120
+msgid "How does it feel?"
+msgstr ""
+
+#: src/main.py:181
+msgid "Feels good!"
+msgstr ""
+
+#: src/main.py:181
+msgid "It is okay."
+msgstr ""
+
+#: src/main.py:181
+msgid "Too much!"
+msgstr ""
+
+#: src/main.py:189
+#, python-format
+msgid "Playing: %s (volume: %d%%)"
 msgstr ""
