@@ -1,9 +1,18 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 # Translators:
 # Daniel Nylander <po@danielnylander.se>, 2026
 # 
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ljudladan 0.1.0\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-21 20:53+0100\n"
+"PO-Revision-Date: 2026-02-21 15:40+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305149/sv/)\n"
 "MIME-Version: 1.0\n"
@@ -12,154 +21,155 @@ msgstr ""
 "Language: sv\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: src/ljudladan/main.py:1
-msgid "About Sound Box"
-msgstr "Om Ljudlådan"
-
-#: src/ljudladan/main.py:2
-msgid "Alarm clock"
-msgstr "Väckarklocka"
-
-#: src/ljudladan/main.py:3
-msgid "Animals"
-msgstr "Djur"
-
-#: src/ljudladan/main.py:4
-msgid "Birds singing"
-msgstr "Fåglar som sjunger"
-
-#: src/ljudladan/main.py:5
-msgid "Cat meowing"
-msgstr "Katt som jamar"
-
-#: src/ljudladan/main.py:6
-msgid "Cow mooing"
-msgstr "Ko som råmar"
-
-#: src/ljudladan/main.py:7
-msgid "Date"
-msgstr "Datum"
-
-#: src/ljudladan/main.py:8
-msgid "Details"
-msgstr "Detaljer"
-
-#: src/ljudladan/main.py:9
-msgid "Dog barking"
-msgstr "Hund som skäller"
-
-#: src/ljudladan/main.py:10
-msgid "Doorbell"
-msgstr "Dörrklocka"
-
-#: src/ljudladan/main.py:11
-msgid "Drums"
-msgstr "Trummor"
-
-#: src/ljudladan/main.py:12
-msgid "Everyday"
-msgstr "Varje dag"
-
-#: src/ljudladan/main.py:13
-msgid "Export"
-msgstr "Exportera"
-
-#: src/ljudladan/main.py:14
-msgid "Feels good!"
-msgstr "Det känns bra!"
-
-#: src/ljudladan/main.py:15
-msgid "Flute"
-msgstr "Flöjt"
-
-#: src/ljudladan/main.py:16
-msgid "Guitar"
-msgstr "Gitarr"
-
-#: src/ljudladan/main.py:17
-msgid "Horse neighing"
-msgstr "Häst som gnäggar"
-
-#: src/ljudladan/main.py:18
-msgid "How does it feel?"
-msgstr "Hur känns det?"
-
-#: src/ljudladan/main.py:19
-msgid "It is okay."
-msgstr "Det är okej."
-
-#: src/ljudladan/main.py:20
-msgid "Music"
-msgstr "Musik"
-
-#: src/ljudladan/main.py:21
-msgid "Nature"
-msgstr "Natur"
-
-#: src/ljudladan/main.py:22
-msgid "Ocean waves"
-msgstr "Havsvågor"
-
-#: src/ljudladan/main.py:23
-msgid "Phone ringing"
-msgstr "Telefon som ringer"
-
-#: src/ljudladan/main.py:24
-msgid "Piano"
-msgstr "Piano"
-
-#: src/ljudladan/main.py:25
-msgid "Playing: %s (volume: %d%%)"
-msgstr "Spelar: %s (volym: %d%%)"
-
-#: src/ljudladan/main.py:26
-msgid "Quit"
-msgstr "Avsluta"
-
-#: src/ljudladan/main.py:27
-msgid "Rain"
-msgstr "Regn"
-
-#: src/ljudladan/main.py:28
-msgid "Result"
-msgstr "Resultat"
-
-#: src/ljudladan/main.py:29
-msgid "Rooster crowing"
-msgstr "Tupp som galer"
-
-#: src/ljudladan/main.py:30
+#: src/export.py:11 src/main.py:66 src/main.py:79
 msgid "Sound Box"
 msgstr "Ljudlådan"
 
-#: src/ljudladan/main.py:31
+#: src/export.py:23
+msgid "Date"
+msgstr "Datum"
+
+#: src/export.py:23
+msgid "Details"
+msgstr "Detaljer"
+
+#: src/export.py:23
+msgid "Result"
+msgstr "Resultat"
+
+#: src/export.py:45 src/main.py:91
+msgid "Export"
+msgstr "Exportera"
+
+#: src/main.py:23
+msgid "Nature"
+msgstr "Natur"
+
+#: src/main.py:24
+msgid "Rain"
+msgstr "Regn"
+
+#: src/main.py:24
+msgid "Wind"
+msgstr "Vind"
+
+#: src/main.py:24
+msgid "Birds singing"
+msgstr "Fåglar som sjunger"
+
+#: src/main.py:24
 msgid "Thunder"
 msgstr "Åska"
 
-#: src/ljudladan/main.py:32
-msgid "Toggle dark/light theme"
-msgstr "Växla mellan mörkt/ljus tema"
+#: src/main.py:24
+msgid "Ocean waves"
+msgstr "Havsvågor"
 
-#: src/ljudladan/main.py:33
-msgid "Too much!"
-msgstr "För mycket!"
+#: src/main.py:25
+msgid "Animals"
+msgstr "Djur"
 
-#: src/ljudladan/main.py:34
-msgid "Traffic"
-msgstr "Trafik"
+#: src/main.py:26
+msgid "Dog barking"
+msgstr "Hund som skäller"
 
-#: src/ljudladan/main.py:35
-msgid "Vacuum cleaner"
-msgstr "Dammsugare"
+#: src/main.py:26
+msgid "Cat meowing"
+msgstr "Katt som jamar"
 
-#: src/ljudladan/main.py:36
+#: src/main.py:26
+msgid "Cow mooing"
+msgstr "Ko som råmar"
+
+#: src/main.py:26
+msgid "Horse neighing"
+msgstr "Häst som gnäggar"
+
+#: src/main.py:26
+msgid "Rooster crowing"
+msgstr "Tupp som galer"
+
+#: src/main.py:27
+msgid "Music"
+msgstr "Musik"
+
+#: src/main.py:28
+msgid "Piano"
+msgstr "Piano"
+
+#: src/main.py:28
+msgid "Guitar"
+msgstr "Gitarr"
+
+#: src/main.py:28
+msgid "Drums"
+msgstr "Trummor"
+
+#: src/main.py:28
 msgid "Violin"
 msgstr "Fiol"
 
-#: src/ljudladan/main.py:37
+#: src/main.py:28
+msgid "Flute"
+msgstr "Flöjt"
+
+#: src/main.py:29
+msgid "Everyday"
+msgstr "Varje dag"
+
+#: src/main.py:30
+msgid "Doorbell"
+msgstr "Dörrklocka"
+
+#: src/main.py:30
+msgid "Vacuum cleaner"
+msgstr "Dammsugare"
+
+#: src/main.py:30
+msgid "Alarm clock"
+msgstr "Väckarklocka"
+
+#: src/main.py:30
+msgid "Traffic"
+msgstr "Trafik"
+
+#: src/main.py:30
+msgid "Phone ringing"
+msgstr "Telefon som ringer"
+
+#: src/main.py:92
+msgid "About Sound Box"
+msgstr "Om Ljudlådan"
+
+#: src/main.py:93
+msgid "Quit"
+msgstr "Avsluta"
+
+#: src/main.py:97
+msgid "Toggle dark/light theme"
+msgstr "Växla mellan mörkt/ljus tema"
+
+#: src/main.py:104
 msgid "Volume:"
 msgstr "Volym:"
 
-#: src/ljudladan/main.py:38
-msgid "Wind"
-msgstr "Vind"
+#: src/main.py:120
+msgid "How does it feel?"
+msgstr "Hur känns det?"
+
+#: src/main.py:181
+msgid "Feels good!"
+msgstr "Det känns bra!"
+
+#: src/main.py:181
+msgid "It is okay."
+msgstr "Det är okej."
+
+#: src/main.py:181
+msgid "Too much!"
+msgstr "För mycket!"
+
+#: src/main.py:189
+#, python-format
+msgid "Playing: %s (volume: %d%%)"
+msgstr "Spelar: %s (volym: %d%%)"
