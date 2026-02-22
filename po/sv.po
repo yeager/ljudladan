@@ -177,11 +177,11 @@ msgstr "Spelar: %s (volym: %d%%)"
 
 #: src/ljudladan/main.py:248
 msgid "Welcome"
-msgstr ""
+msgstr "Välkommen"
 
 #: src/ljudladan/main.py:254
 msgid "Welcome to Sound Box"
-msgstr ""
+msgstr "Välkommen till Ljudlådan"
 
 #: src/ljudladan/main.py:256
 msgid ""
@@ -192,7 +192,13 @@ msgid ""
 "✓ Gradual exposure training\n"
 "✓ Safe, controlled environment"
 msgstr ""
+"Utforska ljud och öva på ljudkänslighet.\n"
+"\n"
+"✓ Kategoriserat ljudbibliotek\n"
+"✓ Justerbara volymnivåer\n"
+"✓ Gradvis exponeringsträning\n"
+"✓ Säker, kontrollerad miljö"
 
 #: src/ljudladan/main.py:259
 msgid "Get Started"
-msgstr ""
+msgstr "Kom igång"
