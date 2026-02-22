@@ -23,3 +23,10 @@ GPL-3.0
 ## Author
 
 Daniel Nylander — [danielnylander.se](https://danielnylander.se)
+
+## Screenshots
+
+![ljudladan (English)](screenshots/ljudladan_en.png)
+
+![ljudladan (Svenska)](screenshots/ljudladan_sv.png)
+
