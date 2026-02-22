@@ -86,14 +86,14 @@ class SoundApp(Adw.Application):
             self.add_action(a)
             if accel: self.set_accels_for_action(f"app.{name}", [accel])
 
-    def _on_about(self, *_):
+    def _on_about(self, *_args):
         d = Adw.AboutDialog(application_name=_("Sound Box"), application_icon="ljudladan",
             version=__version__, developer_name="Daniel Nylander", website="https://www.autismappar.se",
             license_type=Gtk.License.GPL_3_0, developers=["Daniel Nylander"],
             copyright="\u00a9 2026 Daniel Nylander")
         d.present(self.props.active_window)
 
-    def _on_export(self, *_):
+    def _on_export(self, *_args):
         w = self.props.active_window
         if w: w.do_export()
 
@@ -225,7 +225,7 @@ class SoundWindow(Adw.ApplicationWindow):
         export_csv(data, os.path.join(CONFIG_DIR, f"export_{ts}.csv"))
         export_json(data, os.path.join(CONFIG_DIR, f"export_{ts}.json"))
 
-    def _toggle_theme(self, *_):
+    def _toggle_theme(self, *_args):
         mgr = Adw.StyleManager.get_default()
         mgr.set_color_scheme(Adw.ColorScheme.FORCE_LIGHT if mgr.get_dark() else Adw.ColorScheme.FORCE_DARK)
 
