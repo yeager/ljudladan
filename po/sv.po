@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ljudladan\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 17:03+0100\n"
+"POT-Creation-Date: 2026-02-22 17:05+0100\n"
 "PO-Revision-Date: 2026-02-21 15:40+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305149/sv/)\n"
@@ -33,45 +33,45 @@ msgstr "Exportera"
 
 #: ljudladan/export.py:95
 msgid "Choose export format:"
-msgstr ""
+msgstr "Välj exportformat:"
 
 #: ljudladan/export.py:96
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 #: ljudladan/export.py:97
 msgid "CSV"
-msgstr ""
+msgstr "CSV"
 
 #: ljudladan/export.py:98
 msgid "JSON"
-msgstr ""
+msgstr "JSON"
 
 #: ljudladan/export.py:99
 msgid "PDF"
-msgstr ""
+msgstr "PDF"
 
 #: ljudladan/export.py:111
 msgid "Save Export"
-msgstr ""
+msgstr "Spara export"
 
 #: ljudladan/export.py:132
 #, python-format
 msgid "Exported %s"
-msgstr ""
+msgstr "Exporterade %s"
 
 #: ljudladan/export.py:135
 #, python-format
 msgid "Export error: %s"
-msgstr ""
+msgstr "Exportfel: %s"
 
 #: ljudladan/main.py:77
 msgid "Export (Ctrl+E)"
-msgstr ""
+msgstr "Exportera (Ctrl+E)"
 
 #: ljudladan/main.py:82
 msgid "Export Log"
-msgstr ""
+msgstr "Exportera logg"
 
 #: ljudladan/main.py:83 src/ljudladan/main.py:116
 msgid "About Sound Box"
@@ -83,28 +83,28 @@ msgstr "Avsluta"
 
 #: ljudladan/main.py:103
 msgid "Sound Level"
-msgstr ""
+msgstr "Ljudnivå"
 
 #: ljudladan/main.py:108
 msgid "Safe Sounds"
-msgstr ""
+msgstr "Säkra ljud"
 
 #: ljudladan/main.py:135
 msgid "How loud is it right now?"
-msgstr ""
+msgstr "Hur högt är det just nu?"
 
 #: ljudladan/main.py:156
 #, python-format
 msgid "Logged: %s %s"
-msgstr ""
+msgstr "Loggade: %s %s"
 
 #: ljudladan/main.py:163
 msgid "Sounds that help you feel calm"
-msgstr ""
+msgstr "Ljud som hjälper dig att känna dig lugn"
 
 #: ljudladan/main.py:197
 msgid "Sound sensitivity tool with custom sound profiles"
-msgstr ""
+msgstr "Ljudkänslighetsverktyg med anpassade ljudprofiler"
 
 #: src/ljudladan/export.py:23
 msgid "Date"
