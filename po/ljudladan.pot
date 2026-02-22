@@ -8,164 +8,187 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-21 20:53+0100\n"
+"POT-Creation-Date: 2026-02-22 06:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/export.py:11 src/main.py:66 src/main.py:79
+#: src/ljudladan/export.py:11 src/ljudladan/main.py:90
+#: src/ljudladan/main.py:103
 msgid "Sound Box"
 msgstr ""
 
-#: src/export.py:23
+#: src/ljudladan/export.py:23
 msgid "Date"
 msgstr ""
 
-#: src/export.py:23
+#: src/ljudladan/export.py:23
 msgid "Details"
 msgstr ""
 
-#: src/export.py:23
+#: src/ljudladan/export.py:23
 msgid "Result"
 msgstr ""
 
-#: src/export.py:45 src/main.py:91
+#: src/ljudladan/export.py:45 src/ljudladan/main.py:115
 msgid "Export"
 msgstr ""
 
-#: src/main.py:23
+#: src/ljudladan/main.py:24
 msgid "Nature"
 msgstr ""
 
-#: src/main.py:24
+#: src/ljudladan/main.py:25
 msgid "Rain"
 msgstr ""
 
-#: src/main.py:24
+#: src/ljudladan/main.py:25
 msgid "Wind"
 msgstr ""
 
-#: src/main.py:24
+#: src/ljudladan/main.py:25
 msgid "Birds singing"
 msgstr ""
 
-#: src/main.py:24
+#: src/ljudladan/main.py:25
 msgid "Thunder"
 msgstr ""
 
-#: src/main.py:24
+#: src/ljudladan/main.py:25
 msgid "Ocean waves"
 msgstr ""
 
-#: src/main.py:25
+#: src/ljudladan/main.py:26
 msgid "Animals"
 msgstr ""
 
-#: src/main.py:26
+#: src/ljudladan/main.py:27
 msgid "Dog barking"
 msgstr ""
 
-#: src/main.py:26
+#: src/ljudladan/main.py:27
 msgid "Cat meowing"
 msgstr ""
 
-#: src/main.py:26
+#: src/ljudladan/main.py:27
 msgid "Cow mooing"
 msgstr ""
 
-#: src/main.py:26
+#: src/ljudladan/main.py:27
 msgid "Horse neighing"
 msgstr ""
 
-#: src/main.py:26
+#: src/ljudladan/main.py:27
 msgid "Rooster crowing"
 msgstr ""
 
-#: src/main.py:27
+#: src/ljudladan/main.py:28
 msgid "Music"
 msgstr ""
 
-#: src/main.py:28
+#: src/ljudladan/main.py:29
 msgid "Piano"
 msgstr ""
 
-#: src/main.py:28
+#: src/ljudladan/main.py:29
 msgid "Guitar"
 msgstr ""
 
-#: src/main.py:28
+#: src/ljudladan/main.py:29
 msgid "Drums"
 msgstr ""
 
-#: src/main.py:28
+#: src/ljudladan/main.py:29
 msgid "Violin"
 msgstr ""
 
-#: src/main.py:28
+#: src/ljudladan/main.py:29
 msgid "Flute"
 msgstr ""
 
-#: src/main.py:29
+#: src/ljudladan/main.py:30
 msgid "Everyday"
 msgstr ""
 
-#: src/main.py:30
+#: src/ljudladan/main.py:31
 msgid "Doorbell"
 msgstr ""
 
-#: src/main.py:30
+#: src/ljudladan/main.py:31
 msgid "Vacuum cleaner"
 msgstr ""
 
-#: src/main.py:30
+#: src/ljudladan/main.py:31
 msgid "Alarm clock"
 msgstr ""
 
-#: src/main.py:30
+#: src/ljudladan/main.py:31
 msgid "Traffic"
 msgstr ""
 
-#: src/main.py:30
+#: src/ljudladan/main.py:31
 msgid "Phone ringing"
 msgstr ""
 
-#: src/main.py:92
+#: src/ljudladan/main.py:116
 msgid "About Sound Box"
 msgstr ""
 
-#: src/main.py:93
+#: src/ljudladan/main.py:117
 msgid "Quit"
 msgstr ""
 
-#: src/main.py:97
+#: src/ljudladan/main.py:121
 msgid "Toggle dark/light theme"
 msgstr ""
 
-#: src/main.py:104
+#: src/ljudladan/main.py:128
 msgid "Volume:"
 msgstr ""
 
-#: src/main.py:120
+#: src/ljudladan/main.py:144
 msgid "How does it feel?"
 msgstr ""
 
-#: src/main.py:181
+#: src/ljudladan/main.py:205
 msgid "Feels good!"
 msgstr ""
 
-#: src/main.py:181
+#: src/ljudladan/main.py:205
 msgid "It is okay."
 msgstr ""
 
-#: src/main.py:181
+#: src/ljudladan/main.py:205
 msgid "Too much!"
 msgstr ""
 
-#: src/main.py:189
+#: src/ljudladan/main.py:213
 #, python-format
 msgid "Playing: %s (volume: %d%%)"
+msgstr ""
+
+#: src/ljudladan/main.py:248
+msgid "Welcome"
+msgstr ""
+
+#: src/ljudladan/main.py:254
+msgid "Welcome to Sound Box"
+msgstr ""
+
+#: src/ljudladan/main.py:256
+msgid ""
+"Explore sounds and practice sound sensitivity.\n"
+"\n"
+"✓ Categorized sound library\n"
+"✓ Adjustable volume levels\n"
+"✓ Gradual exposure training\n"
+"✓ Safe, controlled environment"
+msgstr ""
+
+#: src/ljudladan/main.py:259
+msgid "Get Started"
 msgstr ""
