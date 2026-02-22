@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-21 20:53+0100\n"
+"POT-Creation-Date: 2026-02-22 06:01+0100\n"
 "PO-Revision-Date: 2026-02-21 15:40+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305149/sv/)\n"
@@ -21,155 +21,178 @@ msgstr ""
 "Language: sv\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: src/export.py:11 src/main.py:66 src/main.py:79
+#: src/ljudladan/export.py:11 src/ljudladan/main.py:90
+#: src/ljudladan/main.py:103
 msgid "Sound Box"
 msgstr "Ljudlådan"
 
-#: src/export.py:23
+#: src/ljudladan/export.py:23
 msgid "Date"
 msgstr "Datum"
 
-#: src/export.py:23
+#: src/ljudladan/export.py:23
 msgid "Details"
 msgstr "Detaljer"
 
-#: src/export.py:23
+#: src/ljudladan/export.py:23
 msgid "Result"
 msgstr "Resultat"
 
-#: src/export.py:45 src/main.py:91
+#: src/ljudladan/export.py:45 src/ljudladan/main.py:115
 msgid "Export"
 msgstr "Exportera"
 
-#: src/main.py:23
+#: src/ljudladan/main.py:24
 msgid "Nature"
 msgstr "Natur"
 
-#: src/main.py:24
+#: src/ljudladan/main.py:25
 msgid "Rain"
 msgstr "Regn"
 
-#: src/main.py:24
+#: src/ljudladan/main.py:25
 msgid "Wind"
 msgstr "Vind"
 
-#: src/main.py:24
+#: src/ljudladan/main.py:25
 msgid "Birds singing"
 msgstr "Fåglar som sjunger"
 
-#: src/main.py:24
+#: src/ljudladan/main.py:25
 msgid "Thunder"
 msgstr "Åska"
 
-#: src/main.py:24
+#: src/ljudladan/main.py:25
 msgid "Ocean waves"
 msgstr "Havsvågor"
 
-#: src/main.py:25
+#: src/ljudladan/main.py:26
 msgid "Animals"
 msgstr "Djur"
 
-#: src/main.py:26
+#: src/ljudladan/main.py:27
 msgid "Dog barking"
 msgstr "Hund som skäller"
 
-#: src/main.py:26
+#: src/ljudladan/main.py:27
 msgid "Cat meowing"
 msgstr "Katt som jamar"
 
-#: src/main.py:26
+#: src/ljudladan/main.py:27
 msgid "Cow mooing"
 msgstr "Ko som råmar"
 
-#: src/main.py:26
+#: src/ljudladan/main.py:27
 msgid "Horse neighing"
 msgstr "Häst som gnäggar"
 
-#: src/main.py:26
+#: src/ljudladan/main.py:27
 msgid "Rooster crowing"
 msgstr "Tupp som galer"
 
-#: src/main.py:27
+#: src/ljudladan/main.py:28
 msgid "Music"
 msgstr "Musik"
 
-#: src/main.py:28
+#: src/ljudladan/main.py:29
 msgid "Piano"
 msgstr "Piano"
 
-#: src/main.py:28
+#: src/ljudladan/main.py:29
 msgid "Guitar"
 msgstr "Gitarr"
 
-#: src/main.py:28
+#: src/ljudladan/main.py:29
 msgid "Drums"
 msgstr "Trummor"
 
-#: src/main.py:28
+#: src/ljudladan/main.py:29
 msgid "Violin"
 msgstr "Fiol"
 
-#: src/main.py:28
+#: src/ljudladan/main.py:29
 msgid "Flute"
 msgstr "Flöjt"
 
-#: src/main.py:29
+#: src/ljudladan/main.py:30
 msgid "Everyday"
 msgstr "Varje dag"
 
-#: src/main.py:30
+#: src/ljudladan/main.py:31
 msgid "Doorbell"
 msgstr "Dörrklocka"
 
-#: src/main.py:30
+#: src/ljudladan/main.py:31
 msgid "Vacuum cleaner"
 msgstr "Dammsugare"
 
-#: src/main.py:30
+#: src/ljudladan/main.py:31
 msgid "Alarm clock"
 msgstr "Väckarklocka"
 
-#: src/main.py:30
+#: src/ljudladan/main.py:31
 msgid "Traffic"
 msgstr "Trafik"
 
-#: src/main.py:30
+#: src/ljudladan/main.py:31
 msgid "Phone ringing"
 msgstr "Telefon som ringer"
 
-#: src/main.py:92
+#: src/ljudladan/main.py:116
 msgid "About Sound Box"
 msgstr "Om Ljudlådan"
 
-#: src/main.py:93
+#: src/ljudladan/main.py:117
 msgid "Quit"
 msgstr "Avsluta"
 
-#: src/main.py:97
+#: src/ljudladan/main.py:121
 msgid "Toggle dark/light theme"
 msgstr "Växla mellan mörkt/ljus tema"
 
-#: src/main.py:104
+#: src/ljudladan/main.py:128
 msgid "Volume:"
 msgstr "Volym:"
 
-#: src/main.py:120
+#: src/ljudladan/main.py:144
 msgid "How does it feel?"
 msgstr "Hur känns det?"
 
-#: src/main.py:181
+#: src/ljudladan/main.py:205
 msgid "Feels good!"
 msgstr "Det känns bra!"
 
-#: src/main.py:181
+#: src/ljudladan/main.py:205
 msgid "It is okay."
 msgstr "Det är okej."
 
-#: src/main.py:181
+#: src/ljudladan/main.py:205
 msgid "Too much!"
 msgstr "För mycket!"
 
-#: src/main.py:189
+#: src/ljudladan/main.py:213
 #, python-format
 msgid "Playing: %s (volume: %d%%)"
 msgstr "Spelar: %s (volym: %d%%)"
+
+#: src/ljudladan/main.py:248
+msgid "Welcome"
+msgstr ""
+
+#: src/ljudladan/main.py:254
+msgid "Welcome to Sound Box"
+msgstr ""
+
+#: src/ljudladan/main.py:256
+msgid ""
+"Explore sounds and practice sound sensitivity.\n"
+"\n"
+"✓ Categorized sound library\n"
+"✓ Adjustable volume levels\n"
+"✓ Gradual exposure training\n"
+"✓ Safe, controlled environment"
+msgstr ""
+
+#: src/ljudladan/main.py:259
+msgid "Get Started"
+msgstr ""
