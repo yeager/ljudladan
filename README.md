@@ -1,13 +1,13 @@
-# Ljudlådan
+# Sound Box
 
-Ljudkänslighetsträning med volymkontroll.
-Natur, djur, musik och vardagsljud.
+Sound sensitivity training with volume control.
+Nature, animals, music and everyday sounds.
 
-GTK4/Adwaita · Python · v0.1.5 · 42 översättningsbara strängar
+GTK4/Adwaita · Python · v0.1.5 · 42 translatable strings
 
-Del av [Autismappar](https://autismappar.se) — fria verktyg för barn med autism, språkstörning och ADHD.
+Part of [Autismappar](https://autismappar.se) — free tools for children with autism, language disorders and ADHD.
 
-## Installation
+## Install
 
 ### Ubuntu / Debian
 ```bash
@@ -21,10 +21,10 @@ sudo dnf install ljudladan
 ```
 Repo: [yeager/rpm-repo](https://github.com/yeager/rpm-repo)
 
-## Översättning
+## Translation
 
-Översätts via [Transifex](https://app.transifex.com/danielnylander/ljudladan/). 11 språk.
+Translated via [Transifex](https://app.transifex.com/danielnylander/ljudladan/). 11 languages.
 
-## Licens
+## License
 
 GPL-3.0-or-later · Daniel Nylander <daniel@danielnylander.se>
