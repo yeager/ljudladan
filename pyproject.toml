@@ -4,7 +4,7 @@ build-backend = "setuptools.backends._legacy:_Backend"
 
 [project]
 name = "ljudladan"
-version = "0.1.5"
+version = "0.1.6"
 description = "Sound sensitivity tool with custom sound profiles"
 license = "GPL-3.0-or-later"
 
