@@ -181,14 +181,14 @@ class App(Adw.Application):
         super().__init__(application_id=APP_ID)
         self.connect("activate", self._on_activate)
 
-    def _on_activate(self, *_):
+    def _on_activate(self, *_args):
         win = self.props.active_window or MainWindow(self)
         a = Gio.SimpleAction(name="about"); a.connect("activate", self._on_about); self.add_action(a)
         qa = Gio.SimpleAction(name="quit"); qa.connect("activate", lambda *_: self.quit()); self.add_action(qa)
         self.set_accels_for_action("app.quit", ["<Control>q"])
         win.present()
 
-    def _on_about(self, *_):
+    def _on_about(self, *_args):
         dialog = Adw.AboutDialog(
             application_name=_("Sound Box"), application_icon=APP_ID, version=__version__,
             developer_name="Daniel Nylander", license_type=Gtk.License.GPL_3_0,
