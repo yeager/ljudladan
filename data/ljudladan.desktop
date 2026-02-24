@@ -8,5 +8,5 @@ Comment[sv]=Ljudträning med kategorier och volymkontroll
 Exec=ljudladan
 Icon=ljudladan
 Terminal=false
-Categories=Education;Accessibility;
+Categories=Education;Accessibility;Autismappar
 Keywords=autism;adhd;accessibility;children;

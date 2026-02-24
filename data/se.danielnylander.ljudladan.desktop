@@ -9,6 +9,6 @@ Exec=ljudladan
 Icon=se.danielnylander.ljudladan
 Terminal=false
 Type=Application
-Categories=GNOME;GTK;Utility;Accessibility;
+Categories=GNOME;GTK;Utility;Accessibility;Autismappar
 Keywords=sound;noise;sensitivity;sensory;autism;
 Keywords[sv]=ljud;buller;känslighet;sensorisk;autism;
