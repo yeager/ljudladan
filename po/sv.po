@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ljudladan\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 17:05+0100\n"
+"POT-Creation-Date: 2026-02-23 11:03+0100\n"
 "PO-Revision-Date: 2026-02-21 15:40+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305149/sv/)\n"
@@ -21,90 +21,10 @@ msgstr ""
 "Language: sv\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ljudladan/export.py:13 ljudladan/main.py:67 ljudladan/main.py:128
-#: ljudladan/main.py:193 src/ljudladan/export.py:11 src/ljudladan/main.py:90
-#: src/ljudladan/main.py:103
+#: src/ljudladan/export.py:11 src/ljudladan/main.py:90
+#: src/ljudladan/main.py:110
 msgid "Sound Box"
 msgstr "Ljudlådan"
-
-#: ljudladan/export.py:95 src/ljudladan/export.py:45 src/ljudladan/main.py:115
-msgid "Export"
-msgstr "Exportera"
-
-#: ljudladan/export.py:95
-msgid "Choose export format:"
-msgstr "Välj exportformat:"
-
-#: ljudladan/export.py:96
-msgid "Cancel"
-msgstr "Avbryt"
-
-#: ljudladan/export.py:97
-msgid "CSV"
-msgstr "CSV"
-
-#: ljudladan/export.py:98
-msgid "JSON"
-msgstr "JSON"
-
-#: ljudladan/export.py:99
-msgid "PDF"
-msgstr "PDF"
-
-#: ljudladan/export.py:111
-msgid "Save Export"
-msgstr "Spara export"
-
-#: ljudladan/export.py:132
-#, python-format
-msgid "Exported %s"
-msgstr "Exporterade %s"
-
-#: ljudladan/export.py:135
-#, python-format
-msgid "Export error: %s"
-msgstr "Exportfel: %s"
-
-#: ljudladan/main.py:77
-msgid "Export (Ctrl+E)"
-msgstr "Exportera (Ctrl+E)"
-
-#: ljudladan/main.py:82
-msgid "Export Log"
-msgstr "Exportera logg"
-
-#: ljudladan/main.py:83 src/ljudladan/main.py:116
-msgid "About Sound Box"
-msgstr "Om Ljudlådan"
-
-#: ljudladan/main.py:84 src/ljudladan/main.py:117
-msgid "Quit"
-msgstr "Avsluta"
-
-#: ljudladan/main.py:103
-msgid "Sound Level"
-msgstr "Ljudnivå"
-
-#: ljudladan/main.py:108
-msgid "Safe Sounds"
-msgstr "Säkra ljud"
-
-#: ljudladan/main.py:135
-msgid "How loud is it right now?"
-msgstr "Hur högt är det just nu?"
-
-#: ljudladan/main.py:156
-#, python-format
-msgid "Logged: %s %s"
-msgstr "Loggade: %s %s"
-
-#: ljudladan/main.py:163
-msgid "Sounds that help you feel calm"
-msgstr "Ljud som hjälper dig att känna dig lugn"
-
-#: ljudladan/main.py:197
-msgid "Sound sensitivity tool with custom sound profiles"
-msgstr "Ljudkänslighetsverktyg med anpassade ljudprofiler"
 
 #: src/ljudladan/export.py:23
 msgid "Date"
@@ -117,6 +37,10 @@ msgstr "Detaljer"
 #: src/ljudladan/export.py:23
 msgid "Result"
 msgstr "Resultat"
+
+#: src/ljudladan/export.py:45 src/ljudladan/main.py:122
+msgid "Export"
+msgstr "Exportera"
 
 #: src/ljudladan/main.py:24
 msgid "Nature"
@@ -214,44 +138,56 @@ msgstr "Trafik"
 msgid "Phone ringing"
 msgstr "Telefon som ringer"
 
-#: src/ljudladan/main.py:121
+#: src/ljudladan/main.py:94
+msgid "Thanks to"
+msgstr "Tack till"
+
+#: src/ljudladan/main.py:123
+msgid "About Sound Box"
+msgstr "Om Ljudlådan"
+
+#: src/ljudladan/main.py:124
+msgid "Quit"
+msgstr "Avsluta"
+
+#: src/ljudladan/main.py:128
 msgid "Toggle dark/light theme"
 msgstr "Växla mellan mörkt/ljus tema"
 
-#: src/ljudladan/main.py:128
+#: src/ljudladan/main.py:135
 msgid "Volume:"
 msgstr "Volym:"
 
-#: src/ljudladan/main.py:144
+#: src/ljudladan/main.py:151
 msgid "How does it feel?"
 msgstr "Hur känns det?"
 
-#: src/ljudladan/main.py:205
+#: src/ljudladan/main.py:212
 msgid "Feels good!"
 msgstr "Det känns bra!"
 
-#: src/ljudladan/main.py:205
+#: src/ljudladan/main.py:212
 msgid "It is okay."
 msgstr "Det är okej."
 
-#: src/ljudladan/main.py:205
+#: src/ljudladan/main.py:212
 msgid "Too much!"
 msgstr "För mycket!"
 
-#: src/ljudladan/main.py:213
+#: src/ljudladan/main.py:220
 #, python-format
 msgid "Playing: %s (volume: %d%%)"
 msgstr "Spelar: %s (volym: %d%%)"
 
-#: src/ljudladan/main.py:248
+#: src/ljudladan/main.py:255
 msgid "Welcome"
 msgstr "Välkommen"
 
-#: src/ljudladan/main.py:254
+#: src/ljudladan/main.py:261
 msgid "Welcome to Sound Box"
 msgstr "Välkommen till Ljudlådan"
 
-#: src/ljudladan/main.py:256
+#: src/ljudladan/main.py:263
 msgid ""
 "Explore sounds and practice sound sensitivity.\n"
 "\n"
@@ -267,6 +203,6 @@ msgstr ""
 "✓ Gradvis exponeringsträning\n"
 "✓ Säker, kontrollerad miljö"
 
-#: src/ljudladan/main.py:259
+#: src/ljudladan/main.py:266
 msgid "Get Started"
 msgstr "Kom igång"
