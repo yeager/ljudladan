@@ -39,6 +39,8 @@ jobs:
           printf '#!/usr/bin/env python3\nfrom ljudladan.main import main\nmain()\n' > "$DIR/usr/bin/ljudladan"
           chmod 755 "$DIR/usr/bin/ljudladan"
           [ -f "data/ljudladan.desktop" ] && cp "data/ljudladan.desktop" "$DIR/usr/share/applications/"
+          mkdir -p ${{github.workspace}}/deb-build/usr/share/icons/hicolor/scalable/apps/
+          cp ./data/icons/se.danielnylander.ljudladan.svg ${{github.workspace}}/deb-build/usr/share/icons/hicolor/scalable/apps/
           printf 'Package: ljudladan\nVersion: %s\nSection: utils\nPriority: optional\nArchitecture: all\nDepends: python3, python3-gi, gir1.2-gtk-4.0, gir1.2-adw-1\nMaintainer: Daniel Nylander <daniel@danielnylander.se>\nDescription: Sound box for children\n' "$VER" > "$DIR/DEBIAN/control"
           dpkg-deb --build "$DIR"
       - name: Upload
