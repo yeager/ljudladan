@@ -1,3 +1,5 @@
+> **⚠️ This app has been migrated to the Autismappar PWA at https://autismappar.se**
+
 # Ljudlådan
 
 Sound sensitivity tool with custom sound profiles for sensory regulation.
@@ -29,4 +31,3 @@ Daniel Nylander — [danielnylander.se](https://danielnylander.se)
 ![ljudladan (English)](screenshots/ljudladan_en.png)
 
 ![ljudladan (Svenska)](screenshots/ljudladan_sv.png)
-
